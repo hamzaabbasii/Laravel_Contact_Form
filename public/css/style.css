@@ -1,0 +1,8 @@
+.form-control:focus {
+    border-color: #6c757d;
+    box-shadow: none;
+}
+.btn-primary:hover {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
